@@ -1,8 +1,8 @@
 ## Welcome to Cura Therapy
 
-Come to Cura Therapy Baulkham Hills and embark on a transformative journey to replenish your mind, body and senses. Our urban oasis in the heart of Baulkham Hills in northwest Sydney, just off the M2, offers an extensive range of treatments, delivered by our experienced expert trained massage therapist, Ellen Ribeiro. At Cura Therapy Baulkham Hills, our day spa menu can be customised to suit all your self-care needs – from relaxation, deep tissue and targeted massages, to pregancy relief.
+[![Book Now](booknow.png)](https://squareup.com/appointments/book/svcrrzmr2kv4gi/LG09BH2D0Z83P/start)
 
-[Book Now](https://squareup.com/appointments/book/svcrrzmr2kv4gi/LG09BH2D0Z83P/start)
+Come to Cura Therapy Baulkham Hills and embark on a transformative journey to replenish your mind, body and senses. Our urban oasis in the heart of Baulkham Hills in northwest Sydney, just off the M2, offers an extensive range of treatments, delivered by our experienced expert trained massage therapist, Ellen Ribeiro. At Cura Therapy Baulkham Hills, our day spa menu can be customised to suit all your self-care needs – from relaxation, deep tissue and targeted massages, to pregancy relief.
 
 ![AMT Approved](amt_logo.png)
 
